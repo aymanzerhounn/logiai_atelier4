@@ -91,5 +91,5 @@ Le travail est développé sur la branche `tp-securite`, soumis par pull request
 
 ## Dépôt
 
-- GitHub : https://github.com/aymanzerhounn/logiai-atelier4
+- GitHub : https://github.com/aymanzerhounn/logiai_atelier4
 - Tag final demandé : `tp4`
